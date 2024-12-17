@@ -1,0 +1,43 @@
+# User-specific files
+UserSettings/
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+
+# Uncomment if you have the project in the Unity Collaborate workspace
+# .collab/
+
+# Windows image file caches
+Thumbs.db
+
+# macOS system files
+.DS_Store
+
+# Windows installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.csproj
+
+
+# JetBrains Rider project files
+.idea/
+
+# VSCode directories and files
+.vscode/
+.vs/
+
+# User-specific JetBrains Rider files
+.idea/
+
+# Unity3D generated meta files
+*.pidb
+*.userprefs
+# Ignore Unity log files
+Logs/
