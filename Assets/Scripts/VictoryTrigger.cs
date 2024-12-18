@@ -9,8 +9,10 @@ public class WinTrigger : MonoBehaviour
         // Check if the player is the one colliding with the object
         if (other.CompareTag("Player"))
         {
-            // Load the "Win" scene (replace "WinScene" with the actual name of your win scene)
             SceneManager.LoadScene("WinScreen");
         }
     }
 }
+
+
+
